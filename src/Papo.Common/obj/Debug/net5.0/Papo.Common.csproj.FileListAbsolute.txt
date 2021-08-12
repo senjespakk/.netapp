@@ -1,0 +1,12 @@
+/Users/admin/Documents/Projects/Papo/src/Papo.Common/bin/Debug/net5.0/Papo.Common.deps.json
+/Users/admin/Documents/Projects/Papo/src/Papo.Common/bin/Debug/net5.0/Papo.Common.dll
+/Users/admin/Documents/Projects/Papo/src/Papo.Common/bin/Debug/net5.0/ref/Papo.Common.dll
+/Users/admin/Documents/Projects/Papo/src/Papo.Common/bin/Debug/net5.0/Papo.Common.pdb
+/Users/admin/Documents/Projects/Papo/src/Papo.Common/obj/Debug/net5.0/Papo.Common.csproj.AssemblyReference.cache
+/Users/admin/Documents/Projects/Papo/src/Papo.Common/obj/Debug/net5.0/Papo.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/Projects/Papo/src/Papo.Common/obj/Debug/net5.0/Papo.Common.AssemblyInfoInputs.cache
+/Users/admin/Documents/Projects/Papo/src/Papo.Common/obj/Debug/net5.0/Papo.Common.AssemblyInfo.cs
+/Users/admin/Documents/Projects/Papo/src/Papo.Common/obj/Debug/net5.0/Papo.Common.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/Projects/Papo/src/Papo.Common/obj/Debug/net5.0/Papo.Common.dll
+/Users/admin/Documents/Projects/Papo/src/Papo.Common/obj/Debug/net5.0/ref/Papo.Common.dll
+/Users/admin/Documents/Projects/Papo/src/Papo.Common/obj/Debug/net5.0/Papo.Common.pdb
